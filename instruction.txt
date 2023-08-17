@@ -1,0 +1,11 @@
+---------------------------------------------
+Instruction to Run the Book to Book_Folder
+---------------------------------------------
+
+Copy the Category Folder E.g Telecommunication Engineering, Reference e.t.c
+
+to migration/book_to_copy
+
+Then run the bulk.php code in the browser
+
+That's All!!!!

@@ -1,0 +1,19 @@
+.side-border {
+    display: flex; /* Use flex to align items in a row */
+    align-items: center; /* Align items vertically in the center */
+    padding: 20px; /* Add some padding for spacing */
+    text-align: center; /* Center the content */
+  }
+
+  .side-border hr {
+    flex: 1; /* Allow the <hr> element to take up the remaining space */
+    border: none; /* Remove default border */
+    border-top: 2px solid grey; /* Add top border to create a line */
+    margin: 0 10px; /* Add margin for spacing between "Related book" and the line */
+  }
+
+    .img-height {
+        height: 200px; /* Adjust the height value as needed */
+        object-fit: cover; /* To maintain the aspect ratio and fill the container */
+    }
+
